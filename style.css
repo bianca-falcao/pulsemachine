@@ -292,6 +292,8 @@ nav a:hover {
 #h2contato {
   font-size: 38px;
   margin-bottom: 30px;
+  color: white;
+  text-align: center;
 }
 
 form {
@@ -300,6 +302,7 @@ form {
   display: flex;
   flex-direction: column;
   gap: 15px;
+  color: white;
 }
 
 input, textarea {
